@@ -1,6 +1,8 @@
 # collaborators-tracking-platform
 
-It was created to enable data exchange of collaborators in agricultural trade. Includes information on daily needs and crops to be collected daily.
+How many kg of olives do the collaborators have?
+How many empty safes and how much money do they need?
+Today, the phrase "I'm just a phone call away" is obsolete, now we are as close as a touch, I wanted to adapt this situation to agricultural trade.
 
 In the coming days, I will add an addition that can create routes where crops can be collected at once.
 
